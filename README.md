@@ -1,12 +1,19 @@
-#  android版本水印
- 
-
+#  android版本水印  
+ ### 请给加star 谢谢。
+### 特点
+支持多行水印，支持自定义角度，支持自定义文字大小。
  
 ### 原理： 
 使用一个TextView 占据整个页面。在TextView基础上面打水印。
 
 ### 用法：
+具体的view在
 
+```
+cn.fulushan.watermark.view.WaterMarkBg.java 
+```
+
+具体的用法
 
 ```
 
